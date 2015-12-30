@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "iris",
+    "Description": "Iris dataset example",
+    "Remote": "http://netman.io/numl"
+  },
+  {
+    "Name": "square",
+    "Description": "AI Heurisitc search example",
+    "Remote": "http://netman.io/numl"
+  },
+  {
+    "Name": "tictactoe",
+    "Description": "Adversarial search example",
+    "Remote": "http://netman.io/numl"
+  }
+]

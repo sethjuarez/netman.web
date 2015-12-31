@@ -13,10 +13,5 @@
     "Name": "tictactoe",
     "Description": "Adversarial search example",
     "Remote": "http://netman.io/numl"
-  },
-  {
-    "Name": "tt0",
-    "Description": "Cobination adv search",
-    "Remote": "http://netman.io/numl"
   }
 ]

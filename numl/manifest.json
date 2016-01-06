@@ -16,7 +16,12 @@
   },
   {
     "Name": "maze-initial",
-    "Description": "Starter point to build maze search problem",
+    "Description": "Starter point maze AI problem",
+    "Remote": "http://netman.io/numl"
+  },
+  {
+    "Name": "titanic-initial",
+    "Description": "Starter point for Titanic ML problem",
     "Remote": "http://netman.io/numl"
   }
 ]

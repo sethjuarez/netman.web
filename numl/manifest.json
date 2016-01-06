@@ -13,5 +13,10 @@
     "Name": "tictactoe",
     "Description": "Adversarial search example",
     "Remote": "http://netman.io/numl"
+  },
+  {
+    "Name": "maze-initial",
+    "Description": "Starter point to build maze search problem",
+    "Remote": "http://netman.io/numl"
   }
 ]

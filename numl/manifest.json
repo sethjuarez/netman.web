@@ -1,5 +1,10 @@
 [
   {
+    "Name": "example",
+    "Description": "Detailed supervised learning example",
+    "Remote": "http://netman.io/numl"
+  },
+  {
     "Name": "iris",
     "Description": "Iris dataset example",
     "Remote": "http://netman.io/numl"
